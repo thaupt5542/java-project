@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # musical-pancake
 Web Development Class Project 1
-<!DOCTYPE html>
+
 <html lang="en">
 <body style="background-color:lightgray;">
   
@@ -46,7 +46,7 @@ USA
 
 
 </body>
-</html>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
