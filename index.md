@@ -122,7 +122,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     </div>
 
     <script>
-       let randomNumber = Math.floor(Math.random() * 100) + 1;
+      let randomNumber = Math.floor(Math.random() * 100) + 1;
       const guesses = document.querySelector('.guesses');
       const lastResult = document.querySelector('.lastResult');
       const lowOrHi = document.querySelector('.lowOrHi');
@@ -189,9 +189,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
         lastResult.style.backgroundColor = 'white';
         randomNumber = Math.floor(Math.random() * 100) + 1;
       }
-
-      let randomNumber = Math.floor(Math.random() * 100) + 1;
-
 
 
     </script>
