@@ -171,6 +171,7 @@ let resetButton;
   guessField.value = '';
   guessField.focus();
 }
+guessSubmit.addEventListener('click', checkGuess);
 
     </script>
   </body>
